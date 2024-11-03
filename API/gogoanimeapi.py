@@ -1,4 +1,5 @@
-from requests_html import HTMLSession
+class Gogo:
+from .gogoanimeapi import Gogo
 from bs4 import BeautifulSoup
 import requests
 
